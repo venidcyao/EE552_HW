@@ -6,7 +6,6 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.util.ArrayList;
 
-
 public class WeiQiApp extends JFrame {
     private Board board;
     public WeiQiApp() {

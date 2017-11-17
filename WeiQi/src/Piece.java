@@ -1,5 +1,6 @@
 import java.awt.*;
 
+
 public class Piece {
     private int x, y;
     private String color;
